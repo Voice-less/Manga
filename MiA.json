@@ -309,18 +309,42 @@
         "Raw": ""
       }
     },
-    "38.5": {
-      "title": "レグ",
-      "volume": "6",
-      "last_updated": "1642003325",
-      "groups": {
-        "Raw": ""
-      }
-    },
     "39": {
       "title": "還らずの都",
       "volume": "6",
       "last_updated": "1642003343",
+      "groups": {
+        "Raw": ""
+      }
+    },
+    "40": {
+      "title": "成れ果てし命",
+      "volume": "6",
+      "last_updated": "1642004032",
+      "groups": {
+        "Raw": ""
+      }
+    },
+    "41": {
+      "title": "価値の精算",
+      "volume": "6",
+      "last_updated": "1642004079",
+      "groups": {
+        "Raw": ""
+      }
+    },
+    "42": {
+      "title": "成れ果て姫",
+      "volume": "6",
+      "last_updated": "1642004103",
+      "groups": {
+        "Raw": ""
+      }
+    },
+    "38.5": {
+      "title": "レグ",
+      "volume": "6",
+      "last_updated": "1642003325",
       "groups": {
         "Raw": ""
       }
