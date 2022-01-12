@@ -309,6 +309,14 @@
         "Raw": ""
       }
     },
+    "38.5": {
+      "title": "レグ",
+      "volume": "6",
+      "last_updated": "1642003325",
+      "groups": {
+        "Raw": ""
+      }
+    },
     "39": {
       "title": "還らずの都",
       "volume": "6",
@@ -337,6 +345,22 @@
       "title": "成れ果て姫",
       "volume": "6",
       "last_updated": "1642004103",
+      "groups": {
+        "Raw": ""
+      }
+    },
+    "42.1": {
+      "title": "ミオ",
+      "volume": "6",
+      "last_updated": "1642003325",
+      "groups": {
+        "Raw": ""
+      }
+    },
+    "42.2": {
+      "title": "ジルオ",
+      "volume": "6",
+      "last_updated": "1642003325",
       "groups": {
         "Raw": ""
       }
@@ -488,30 +512,6 @@
     "61": {
       "title": "どこにでも行ける",
       "volume": "11",
-      "last_updated": "1642003325",
-      "groups": {
-        "Raw": ""
-      }
-    },
-    "38.5": {
-      "title": "レグ",
-      "volume": "6",
-      "last_updated": "1642003325",
-      "groups": {
-        "Raw": ""
-      }
-    },
-    "42.1": {
-      "title": "ミオ",
-      "volume": "6",
-      "last_updated": "1642003325",
-      "groups": {
-        "Raw": ""
-      }
-    },
-    "42.2": {
-      "title": "ジルオ",
-      "volume": "6",
       "last_updated": "1642003325",
       "groups": {
         "Raw": ""
