@@ -1,16 +1,80 @@
 {
   "title": "MiA",
   "description": "隅々まで探索されつくした世界に、唯一残された秘境の大穴『アビス』。どこまで続くとも知れない深く巨大なその縦穴には、奇妙奇怪な生物たちが生息し、今の人類では作りえない貴重な遺物が眠っている。\n「アビス」の不可思議に満ちた姿は人々を魅了し、冒険へと駆り立てた。そうして幾度も大穴に挑戦する冒険者たちは、次第に『探窟家』呼ばれるようになっていった。\n\nアビスの縁に築かれた街『オース』に暮らす孤児のリコは、いつか母のような偉大な探窟家になり、アビスの謎を解き明かすことを夢見ていた。そんなある日、リコはアビスを探窟中に、少年の姿をしたロボットを拾い…？\n\n",
-  "artist": "Akihito Tsukushi",
-  "author": "Akihito Tsukushi",
+  "artist": "つくしあきひと",
+  "author": "つくしあきひと",
   "cover": "https://cdn.discordapp.com/attachments/930195071431753748/930197159440175115/Made_in_Abyss_-_c001_v01_-_p000x2-001_dig_Seven_Seas_danke-Empire_HQ_r2.jpg",
   "chapters": {
     "1": {
-      "title": "Orth: The City of the Great Pit",
+      "title": "大穴の街オース",
       "volume": "1",
       "last_updated": "1641928806",
       "groups": {
         "": "/proxy/api/imgur/chapter/XTBaWHF"
+      }
+    },
+    "2": {
+      "title": "樹住まいの化石群",
+      "volume": "1",
+      "last_updated": "1641985184",
+      "groups": {
+        "1": "/proxy/api/imgur/chapter/v50HXxp"
+      }
+    },
+    "3": {
+      "title": "仕置き部屋、リコ私室",
+      "volume": "1",
+      "last_updated": "1641985496",
+      "groups": {
+        "1": "/proxy/api/imgur/chapter/ABVOK0d"
+      }
+    },
+    "4": {
+      "title": "ベルチェロ孤児院",
+      "volume": "1",
+      "last_updated": "1641985543",
+      "groups": {
+        "1": "/proxy/api/imgur/chapter/j5wALlR"
+      }
+    },
+    "5": {
+      "title": "復活祭",
+      "volume": "1",
+      "last_updated": "1641985575",
+      "groups": {
+        "1": "/proxy/api/imgur/chapter/8gIakzW"
+      }
+    },
+    "6": {
+      "title": "予兆",
+      "volume": "1",
+      "last_updated": "1641985610",
+      "groups": {
+        "1": "/proxy/api/imgur/chapter/M3kK8kT"
+      }
+    },
+    "7": {
+      "title": "出発前夜",
+      "volume": "1",
+      "last_updated": "1641985637",
+      "groups": {
+        "1": "/proxy/api/imgur/chapter/MOjEiJX"
+      }
+    },
+    "8": {
+      "title": "いってきます!",
+      "volume": "1",
+      "last_updated": "1641985665",
+      "groups": {
+        "1": "/proxy/api/imgur/chapter/sR1256t"
+      }
+    },
+    "9": {
+      "title": "深界一層 アビスの淵",
+      "volume": "2",
+      "last_updated": "1641985697",
+      "groups": {
+        "1": "/proxy/api/imgur/chapter/SRAVaGk"
       }
     }
   }
