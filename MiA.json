@@ -84,6 +84,62 @@
       "groups": {
         "Raw": "/proxy/api/imgur/chapter/AVQOX0V"
       }
+    },
+    "11": {
+      "title": "火葬砲",
+      "volume": "2",
+      "last_updated": "1641998123",
+      "groups": {
+        "Raw": "/proxy/api/imgur/chapter/QfxmEUi"
+      }
+    },
+    "12": {
+      "title": "二層最下部 逆さ森",
+      "volume": "2",
+      "last_updated": "1641998193",
+      "groups": {
+        "Raw": "/proxy/api/imgur/chapter/c7khQx2"
+      }
+    },
+    "13": {
+      "title": "監視基地",
+      "volume": "2",
+      "last_updated": "1641998228",
+      "groups": {
+        "Raw": "/proxy/api/imgur/chapter/cds8vZk"
+      }
+    },
+    "14": {
+      "title": "呪い除けの籠",
+      "volume": "2",
+      "last_updated": "1641998280",
+      "groups": {
+        "Raw": "/proxy/api/imgur/chapter/a05eHrM"
+      }
+    },
+    "15": {
+      "title": "不動卿",
+      "volume": "2",
+      "last_updated": "1641998325",
+      "groups": {
+        "Raw": "/proxy/api/imgur/chapter/xT749KQ"
+      }
+    },
+    "16": {
+      "title": "ろくでなしの教授法",
+      "volume": "2",
+      "last_updated": "1641998364",
+      "groups": {
+        "Raw": "/proxy/api/imgur/chapter/YjomAiL"
+      }
+    },
+    "17": {
+      "title": "生存訓練",
+      "volume": "3",
+      "last_updated": "1641998391",
+      "groups": {
+        "Raw": "/proxy/api/imgur/chapter/Rf2THSn"
+      }
     }
   }
 }
